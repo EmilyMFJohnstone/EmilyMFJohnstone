@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmilyMFJohnstone
-- 👀 I’m interested in Python, React and Javascript
-- 🌱 I’m currently learning about Python
+- 👀 I’m interested in React, JavaScript and UX/UI
+- 🌱 I’m currently learning to get my head around it all!
 - 📫 How to reach me ejohnstone@vertuspartners.com
 
 <!---
